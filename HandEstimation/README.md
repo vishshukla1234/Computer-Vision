@@ -20,7 +20,3 @@ It uses **OpenCV**, **MediaPipe**, and **AutoPy** to track hand movements and pe
 - **MediaPipe** – for hand landmarks detection  
 - **AutoPy** – for controlling mouse actions  
 - **NumPy** – for mathematical operations
-
----
-
-## 📂 Project Structure
